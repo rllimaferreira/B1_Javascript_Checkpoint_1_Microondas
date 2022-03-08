@@ -1,6 +1,6 @@
 # B1_Javascript_Checkpoint_1_Microondas
 
-Checkpoint 1 - O Micro-ondas Super Veloz
+Checkpoint 1 - O Micro-Ondas Super Veloz
 
 <img src="https://media3.giphy.com/media/qUt4xeREPBTEdteWKw/giphy.gif" width="200" style="max-width: 100%;">
 
